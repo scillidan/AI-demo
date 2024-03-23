@@ -1,0 +1,17 @@
+# lunix
+TTS/
+xtts/
+
+stable-diffusion-webui/
+faster-whisper-webui/
+text-generation-webui/
+doctr/
+streamlit-image-crop/
+audiocraft/
+lobe-chat/
+Flowise/
+VoiceStreamAI/
+RapidVideOCR/
+Draw2Img/
+MeloTTS/
+chatgpt-subtitle-translator/
