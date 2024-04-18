@@ -1,6 +1,22 @@
+# cache
+chatbox/
+api-for-open-llm/
+pyvideotrans/
+langflow/
+
+# network
+img2img-turbo/
+
+# docker
+api-for-open-llm/
+
 # lunix
 TTS/
 xtts/
+
+# api
+chatgpt-subtitle-translator/
+gpt-subtrans/
 
 stable-diffusion-webui/
 faster-whisper-webui/
@@ -13,5 +29,6 @@ Flowise/
 VoiceStreamAI/
 RapidVideOCR/
 Draw2Img/
-MeloTTS/
-chatgpt-subtitle-translator/
+MeloTTS
+Sakura-13B-Galgame/
+OpenVoice/

@@ -3,26 +3,10 @@
 ```sh
 git clone https://huggingface.co/spaces/aadnk/faster-whisper-webui
 cd faster-whisper-webui
-```
-
-Edit `requirements-fasterWhisper.txt`:  
-
-```sh
-torch==2.0.1
-torchaudio==2.0.2
-pyannote.audio==3.0.1
-```
-
-```sh
 python310 -m venv venv
 venv\Scripts\activate.bat
-pip install -r requirements-fasterWhisper.txt
-```
-
-A useless step to check:
-
-```sh
-pip install torch===2.0.1 torchaudio===2.0.2 pyannote.audio===3.0.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install .../torch-2.2.2+cu121-cp310-cp310-win_amd64.whl
+pip install -r requirements-fasterWhisper.txt 
 ```
 
 ```sh
