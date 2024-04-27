@@ -21,6 +21,6 @@ Open `localhost:7860` → Model Tab → Select `Model` → Select `Model loader`
 
 If there is no problem, you will see:
 
-![](_media/text-generation-web-ui_model.png)
+![](../_media/text-generation-web-ui_model.png)
 
 If you see errors, good luck for you!
